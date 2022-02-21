@@ -1,4 +1,7 @@
 <h1> 📊 Banco de Dados MYSQL com Python 📊 </h1>
+<p align="center">
+  <a href="#-tecnologias">Technologies Used</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
 > Status: Developed ✅
 
@@ -7,7 +10,7 @@
 ### 🇪🇸 Spain: Base de datos MYSQL con Python.
 
 
-## Techonologies used 💻:
+## 💻 Techonologies used:
 
 <table>
   <tr>
