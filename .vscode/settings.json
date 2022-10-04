@@ -11,7 +11,7 @@
             "database": "BancoPython",
             "name": "Bancodedadosmysql",
             "username": "admin",
-            "password": "Dartagnan1"
+            "password": "root"
         }
     ]
 }
